@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+    font-family: 'Arial';
+}
+
+.title-styles {
+    text-align: center;
+    font-size: 36;
+}
+
+.table-styles {
+    font-size: 20;
+    border: 1px solid #DDD;
+    text-align: left;
+    width: 100%;
+  }
+
+ .cell-styles {
+    border: 1px solid #DDD;
+    padding: 5 5 5 5;
+    text-align: left;
+}
+
+.table-header-styles {
+    font-size: 20;
+    font-weight: 'bold';
+    border: 1px solid #DDD;
+    text-align: 'left';
+  }
